@@ -1,0 +1,13 @@
+<html>
+	<body>
+		<div>
+			<h1> Lista de animales </h1>
+			<ul>
+				<li>Gato</li>
+				<li>Perro</li>
+				<li>Panda</li>
+				<li>Tiburón</li>
+			</ul>
+		</div>	
+	</body>
+</html>
